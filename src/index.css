@@ -1,0 +1,49 @@
+/* .sidebar {
+  width: 300px;
+} */
+.sidebarColor {
+  background-color: #252526;
+}
+.signIn {
+  color: #e3636f;
+}
+.custom-textarea::placeholder {
+  color: #aaa;
+  opacity: 1;
+}
+.marginSearch {
+  margin-left: 1.4rem;
+}
+.topbarColor {
+  background-color: #2c2c2c;
+}
+.icontop {
+  color: #626262;
+}
+.icondiv {
+  background-color: #4d4d4d;
+}
+.toph {
+  height: 80px;
+}
+.contentColor {
+  background-color: #1f1f1f;
+}
+.imgborder {
+  border-radius: 2%;
+}
+.explorerbg {
+  background-color: #2a2a2a;
+}
+.explorercard {
+  border-radius: 2%;
+}
+.footer {
+  background-color: #323232;
+}
+.footerfont {
+  font-size: 0.8rem;
+}
+.home {
+  background-color: #ed283c;
+}
